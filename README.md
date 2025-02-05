@@ -64,7 +64,8 @@ https://drive.google.com/drive/folders/1vJYcZQt2_X7dyii7wAkm670-uIKFsoC_?usp=dri
 
 ---
 
-## 🎥 Working Project Video: https://drive.google.com/file/d/1_NFczOqTDFTDnZXSqGdg-xE8295H_smB/view?usp=sharing
+## 🎥 Working Project Video:
+[Click here to watch the demo](https://drive.google.com/file/d/1_NFczOqTDFTDnZXSqGdg-xE8295H_smB/view?usp=sharing)
 
 ---
 
